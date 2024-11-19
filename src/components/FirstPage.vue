@@ -42,9 +42,6 @@
         </button>
       </div>
 
-      <div class="character-image bg-purple-600 rounded-lg p-4">
-        <img src="@/assets/skelet.png" alt="Character" class="w-48 h-48 object-cover rounded" />
-      </div>
     </div>
 
     <AuthForm v-if="showAuthForm" />
